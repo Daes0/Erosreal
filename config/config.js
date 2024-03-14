@@ -13,7 +13,7 @@ module.exports = {
     roomName: 'Changeme', // change this to your room name
     // change this to where you want the bot to teleport on start
     coordinates: {
-      x: 17,
+      x: 16,
       y: 1,
       z: 26,
       facing: 'FrontLeft'
